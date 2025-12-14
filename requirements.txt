@@ -1,0 +1,12 @@
+# Core Libraries
+torch>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Hugging Face and NLP Libraries
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+datasets>=2.12.0
+
+# Utility for fast similarity search (optional, but good practice for scaling)
+# faiss-cpu>=1.7.4
